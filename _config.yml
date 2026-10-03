@@ -1,17 +1,17 @@
 # Site-wide settings
 # ------------------
 #
-title: RECOMB-ARCH
-year: 2026
-dates: May 24, 2026
-iteration: "First"
-location: "Thessaloniki, Greece"
-pc_chair1: "Yatish Turakhia"
+title: RECOMB-Arch
+year: 2027
+dates: "May 2027, exact date TBA"
+iteration: "Second"
+location: "Toronto, Canada"
+pc_chair1: "Can Firtina"
 pc_chair2: ""
 
 #
 author:
-  name: RECOMB-ARCH Conference
+  name: RECOMB-Arch Conference
   email: recombarch@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -129,17 +129,18 @@ main_navigation:
 #        url: /sponsorship_packages
 
 # Custom variables
+# Keep `dates` (above) and `conference_dates` identical.
 deadlines:
-  abstract_submission: "March 12, 2026, 23:59 AoE"
-  paper_submission: "March 18, 2026, 23:59 AoE"
-  author_notification: "April 22, 2026"
-  poster_and_short_talk_submission: "April 20, 2026, 23:59 AoE"
-  poster_and_short_talk_notification: "April 22, 2026"
-  conference_dates: "24 May 2026"
+  abstract_submission: "TBA"
+  paper_submission: "TBA"
+  author_notification: "TBA"
+  poster_and_short_talk_submission: "TBA"
+  poster_and_short_talk_notification: "TBA"
+  conference_dates: "May 2027, exact date TBA"
 
 links:
-  easychair: "https://easychair.org/conferences/?conf=recomb2026"
-  pc_chair1: "mailto:yturakhia@ucsd.edu"
+  easychair: "https://easychair.org/conferences/?conf=recomb2027"
+  pc_chair1: "mailto:recombarch@gmail.com"
 #  nav_pages:
 #     - about.md
 #     - committes.md

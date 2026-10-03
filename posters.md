@@ -3,4 +3,4 @@ layout: page
 title: Poster Guidelines
 ---
 
-TBA
+Poster guidelines will be announced closer to the conference.

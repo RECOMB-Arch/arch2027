@@ -3,4 +3,4 @@ layout: page
 title: Register
 ---
 
-Registrations to RECOMB-Arch  are handled through the registration form on the main RECOMB conference website. Please go to [RECOMB](https://recomb.org/recomb{{site.year}}) to register for RECOMB-Arch.
+Registration for {{ site.title }} {{ site.year }} is handled through the main RECOMB conference. Details will be posted on the [RECOMB {{ site.year }} website](https://recomb.org/recomb{{ site.year }}).

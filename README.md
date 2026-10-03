@@ -11,28 +11,29 @@ Most dates and links are defined as custom variables in _config.yml. Simply modi
 
 Variables to edit:
 
-title: RECOMB-Arch 2026  
-iteration: "1st"  
-location: "Thessaloniki, Greece"  
-dates: May 24-25, 2026  
-year: "2026"  
-pc_chair1: "Victoria Popic"  
-pc_chair2: "Kristoffer Sahlin"  
+title: RECOMB-Arch  
+year: 2027  
+dates: "May 2027, exact date TBA"  
+iteration: "Second"  
+location: "Toronto, Canada"  
+pc_chair1: "Can Firtina"  
+pc_chair2: ""  
 
 author:  
    name: RECOMB-Arch Conference  
    email: recombarch@gmail.com  
   
 deadlines:  
-  abstract_submission: "TBA, 23:59 AoE"  
-  paper_submission: "TBA, 23:59 AoE"  
+  abstract_submission: "TBA"  
+  paper_submission: "TBA"  
   author_notification: "TBA"  
   poster_and_short_talk_submission: "TBA"  
   poster_and_short_talk_notification: "TBA"  
-  conference_dates: "24-25 May 2026"  
+  conference_dates: "May 2027, exact date TBA"  
 
 links:
-  easychair: "https://easychair.org/conferences/?conf=recomb2026"  
-  pc_chair1: "mailto:vpopic@broadinstitute.org"  
-  pc_chair2: "mailto:krsahlin@gmail.com"  
+  easychair: "https://easychair.org/conferences/?conf=recomb2027"  
+  pc_chair1: "mailto:recombarch@gmail.com"  
+
+Keep `dates` and `deadlines.conference_dates` identical; the home banner, the call for papers and the key dates page read them.
   
