@@ -7,8 +7,6 @@ title: Call for Papers
 
 The {{ site.iteration }} RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads ({{ site.title }} {{ site.year }}) will take place in {{ site.location }} ({{ site.dates }}), just before the main RECOMB conference. {{ site.title }} brings together researchers in the bioinformatics, computational biology, and computer architecture communities to strengthen the progress in accelerating bioinformatics analysis (e.g., genome, transcriptome, proteome analysis) with efficient system designs that include hardware acceleration and software systems tailored for new hardware technologies, including compiler optimizations, APIs, and DSLs that support acceleration platforms.
 
-**The full call for papers, including tracks, submission guidelines, the journal partnership, and key dates, will be announced soon.**
-
 ## Topics
 
 Topics of interest include, but are not limited to:
@@ -41,3 +39,7 @@ Topics of interest include, but are not limited to:
 - Efficient hardware implementations of compression algorithms for genomic data
 - Accelerated methods for genome-wide association studies (GWAS) and population genetics
 - Hardware-optimized data structures (e.g., k-mer indices, Bloom filters, FM-index, learned indexes)
+
+## Tracks and Submission Guidelines
+
+To be announced.

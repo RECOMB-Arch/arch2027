@@ -13,7 +13,7 @@ Variables to edit:
 
 title: RECOMB-Arch  
 year: 2027  
-dates: "May 2027, exact date TBA"  
+dates: "May 15/16, 2027"  
 iteration: "Second"  
 location: "Toronto, Canada"  
 pc_chair1: "Can Firtina"  
@@ -29,7 +29,7 @@ deadlines:
   author_notification: "TBA"  
   poster_and_short_talk_submission: "TBA"  
   poster_and_short_talk_notification: "TBA"  
-  conference_dates: "May 2027, exact date TBA"  
+  conference_dates: "May 15/16, 2027"  
 
 links:
   easychair: "https://easychair.org/conferences/?conf=recomb2027"  
