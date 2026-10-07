@@ -14,7 +14,7 @@ title: Key Dates and Deadlines
 ## Abstracts for Short Talks and Posters
 
 - **Submission deadline**: {{ site.deadlines.poster_and_short_talk_submission }}
-- **Author notification**: Shortly after the submission deadline.
+- **Author notification**: {{ site.deadlines.poster_and_short_talk_notification }}
 
 
 ## Conference

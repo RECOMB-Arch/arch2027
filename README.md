@@ -24,11 +24,11 @@ author:
    email: recombarch@gmail.com  
   
 deadlines:  
-  abstract_submission: "TBA"  
-  paper_submission: "TBA"  
-  author_notification: "TBA"  
-  poster_and_short_talk_submission: "TBA"  
-  poster_and_short_talk_notification: "TBA"  
+  abstract_submission: "February 1, 2027, 23:59 AoE"  
+  paper_submission: "February 6, 2027, 23:59 AoE"  
+  author_notification: "March 7, 2027"  
+  poster_and_short_talk_submission: "March 24, 2027, 23:59 AoE"  
+  poster_and_short_talk_notification: "Rolling, shortly after submission"  
   conference_dates: "May 15/16, 2027"  
 
 links:

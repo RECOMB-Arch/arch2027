@@ -40,6 +40,19 @@ Topics of interest include, but are not limited to:
 - Accelerated methods for genome-wide association studies (GWAS) and population genetics
 - Hardware-optimized data structures (e.g., k-mer indices, Bloom filters, FM-index, learned indexes)
 
+## Key Dates
+
+Papers
+
+- **Abstract submission deadline**: {{ site.deadlines.abstract_submission }}
+- **Full paper submission deadline**: {{ site.deadlines.paper_submission }}
+- **Author notification**: {{ site.deadlines.author_notification }}
+
+Short talks and posters
+
+- **Submission deadline**: {{ site.deadlines.poster_and_short_talk_submission }}
+- **Author notification**: {{ site.deadlines.poster_and_short_talk_notification }}
+
 ## Tracks and Submission Guidelines
 
 To be announced.
